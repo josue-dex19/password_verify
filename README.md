@@ -22,4 +22,3 @@ entre le mot de passe et sa confirmation.
   - Vérification de la correspondance entre le mot de passe et la confirmation.
 
 Interface utilisateur moderne et réactive.
-![Capture d'écran 2025-02-07 132033](https://github.com/user-attachments/assets/f86cd966-c28e-4759-b357-707ee61f2fc6)
