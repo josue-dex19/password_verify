@@ -1,16 +1,24 @@
-# designplus
+# password_verify
 
 A new Flutter project.
 
-## Getting Started
+Create Password Screen in Flutter
 
-This project is a starting point for a Flutter application.
+# Description
 
-A few resources to get you started if this is your first Flutter project:
+Cette application Flutter propose une interface intuitive pour la création d'un mot de passe sécurisé. 
+Elle guide l'utilisateur en affichant des critères de sécurité en temps réel et valide la correspondance
+entre le mot de passe et sa confirmation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Fonctionnalités
+# Saisie du mot de passe avec affichage/masquage.
+# Validation dynamique des critères de sécurité :
+  -Majuscule
+  -Minuscule
+  -Chiffre
+  -Caractère spécial
+  -Longueur minimale (8 caractères)
+  -Indicateur de force du mot de passe (faible, moyen, très fort).
+  -Vérification de la correspondance entre le mot de passe et la confirmation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interface utilisateur moderne et réactive.
